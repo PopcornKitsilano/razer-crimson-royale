@@ -269,7 +269,7 @@ requests.put(f"{session_url}/heartbeat", timeout=3)
 
 ---
 
-## ⚙️ Customization — what to change
+##  Customization — what to change
 
 ### Animation speed
 
@@ -342,7 +342,7 @@ PATTERNS = ["wave_lr", "wave_rl", "wave_tb", "pulse", "diagonal", "your_pattern_
 
 ---
 
-## 🔄 Run on Windows startup (optional)
+##  Run on Windows startup (optional)
 
 To have the lighting apply automatically every time you boot:
 
@@ -360,7 +360,7 @@ python razer_chroma_colors.py
 
 ---
 
-## 📁 Files
+##  Files
 
 ```
 razer-crimson-royale/
@@ -370,7 +370,7 @@ razer-crimson-royale/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork, modify patterns, add new effects, or submit a PR. Ideas welcome:
 - Reactive typing effects (key lights up on press)
