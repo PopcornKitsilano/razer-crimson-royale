@@ -1,4 +1,4 @@
-# 🎨 Razer Crimson Royale
+#  Razer Crimson Royale
 **Custom Razer keyboard & mouse lighting via the Chroma REST API — no Chroma Studio needed.**
 
 Built by [PopcornKitsilano](https://github.com/PopcornKitsilano)
@@ -11,7 +11,7 @@ Built by [PopcornKitsilano](https://github.com/PopcornKitsilano)
 
 ---
 
-## 🖼️ What it looks like
+##  What it looks like
 
 Animated red → pink → magenta → purple → violet wave flowing across the keyboard, with 5 rotating patterns:
 - **wave_lr** — left to right sweep
@@ -24,7 +24,7 @@ WASD, arrow keys, and Caps Lock are always locked to **bright red** for instant 
 
 ---
 
-## ⚡ Why use this instead of Razer Synapse / Chroma Studio?
+##  Why use this instead of Razer Synapse / Chroma Studio?
 
 | | Razer Synapse / Chroma Studio | This Script |
 |---|---|---|
@@ -41,7 +41,7 @@ WASD, arrow keys, and Caps Lock are always locked to **bright red** for instant 
 
 ---
 
-## 🛠️ What you need
+##  What you need
 
 ### Required software
 - **Razer Synapse 4** — must be installed and running. Download from [razer.com/synapse](https://www.razer.com/synapse-4)
@@ -57,7 +57,7 @@ Should work on any Razer Chroma-enabled device.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### 1. Install Python
 Download from [python.org](https://www.python.org/downloads/) and run the installer.
@@ -114,7 +114,7 @@ Press **Ctrl+C** to stop. Colors revert to Synapse default when the script exits
 
 ---
 
-## 🌐 How to verify the Chroma REST API is running
+##  How to verify the Chroma REST API is running
 
 The Chroma SDK runs a local REST API on your machine while Synapse is open. You can verify it is live by opening your browser and going to:
 
